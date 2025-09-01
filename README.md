@@ -88,4 +88,4 @@ Feel free to fork this repository and submit pull requests for improvements (e.g
 
 ## License
 This script is provided as-is without warranty. Use at your own risk.
-Under MIT License
+Under MIT License.
