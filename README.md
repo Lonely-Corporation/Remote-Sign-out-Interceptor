@@ -1,4 +1,4 @@
-# Remote Signout Interceptor
+# Random Signout Interceptor
 
 This repository contains a PowerShell script, `remote-signout-intercepter.ps1`, designed to intercept and prompt for confirmation on sign-outs, shutdowns, and restarts (including remote actions) on a Windows 11 system without requiring administrative privileges.
 
